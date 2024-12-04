@@ -19,3 +19,7 @@
     - jsファイルが実行される(やったぜ)
 1. `node_modules/.bin/ts-node [tsファイルパス]`を実行
     - tsファイルが実行される(やったぜ)
+
+
+1. `npm init playwright@latest`を実行
+    - 取り敢えずplaywrightをインスコするだけしてみた
