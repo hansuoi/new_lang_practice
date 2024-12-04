@@ -22,7 +22,7 @@
 
 
 ### 今後やりたいこと
-1. TypeScriptの勉強 by https://typescriptbook.jp/
+1. TypeScriptの勉強 by https://typescriptbook.jp/reference
 2. Jestを使った単体テスト (インスコ済み)
 3. `npm init playwright@latest`を実行
     - 取り敢えずplaywrightをインスコするだけしてみた
